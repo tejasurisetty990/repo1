@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is C89A-DCE5
+
+ Directory of F:\GITPROJECT
+
+21-08-2017  13:06    <DIR>          .
+21-08-2017  13:06    <DIR>          ..
+21-08-2017  13:06                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  213,559,959,552 bytes free
